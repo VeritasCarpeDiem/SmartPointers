@@ -1,5 +1,5 @@
 # Smart Pointers and Lambda
-Uses of Lambda function
+
 ## C++11 functors:
 ```C++
  std::function<void(int)> myFunc = [](int x) -> void{ std::cout << "Hello" << x << std::endl;};
